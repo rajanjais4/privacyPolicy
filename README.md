@@ -1,5 +1,5 @@
 # Privacy Policy
-
+common link to share  - https://rajanjais4.github.io/privacyPolicy/
 This repository contains a general privacy policy template that can be used across multiple projects. The privacy policy is hosted on GitHub Pages and can be accessed at [https://yourusername.github.io/privacyPolicy](https://yourusername.github.io/privacyPolicy).
 
 ## Usage
